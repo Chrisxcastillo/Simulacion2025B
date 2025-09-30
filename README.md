@@ -7,6 +7,6 @@ Contenidos
     -Discretas
     -Continuas
   
-##Bibliografia
+## Bibliografia
 
 Sheldon Ross
