@@ -4,10 +4,15 @@ Contenidos
 - Desarrollo de aplicativos web
 - Generación de numeros aleatorios
 - Generación de variables aleatorias
+
     -Discretas
+    
     -Continuas
+    
 -Generacion de procesos Poisson
+
 -Movimiento Browniano
+
 -Black Scholes
 
 <img src="https://www.processmaker.com/wp-content/uploads/2021/07/simulation-modeling-process-mining-768x614.jpg" alt="JuveR" width="300px">
